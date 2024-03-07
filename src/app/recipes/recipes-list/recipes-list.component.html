@@ -1,0 +1,10 @@
+
+
+
+<div class="row">
+    @for (item of (recipe$ | async); track $index) {
+    <div class="col-md-4">
+        <app-recipe-card [recipe]="item"></app-recipe-card>
+    </div>
+}
+</div>
