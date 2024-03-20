@@ -6,5 +6,8 @@ export interface Recipe {
     servings?:number;
     ingredients?:string[];
     steps?:string[];
-    imageUrl:string;
+    imageUrl?:string;
+    price?:number;
+    quantity?:number;
+    total:number;
 }

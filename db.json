@@ -16,7 +16,10 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "lemon-cake.jpg"
+    "imageUrl": "lemon-cake.jpg",
+    "price":22.3,
+    "quantity":1,
+    "total":0
   },
   {
     "id": 2,
@@ -35,7 +38,13 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "lemon-pie.jpg"
+    "imageUrl": "lemon-pie.jpg",
+    "price":21.5,
+    "quantity":1,
+    "total":0
+
+
+
   },
   {
     "id": 3,
@@ -55,8 +64,10 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "tortilla-wrap.jpg"
-
+    "imageUrl": "tortilla-wrap.jpg",
+    "price":26.3,
+    "quantity":1,
+    "total":0
   },
   {
     "id": 4,
@@ -76,7 +87,11 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "kebab.PNG"
+    "imageUrl": "kebab.PNG",
+    "price":23,
+    "quantity":1,
+    "total":0
+
 },
   {
     "id":5,
@@ -96,8 +111,10 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "chicken.jpg"
-
+    "imageUrl": "chicken.jpg",
+    "price":20.2,
+    "quantity":1,
+    "total":0
   },
   {
     "id": 6,
@@ -117,7 +134,10 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "cookies.PNG"
+    "imageUrl": "cookies.PNG",
+    "price":12.9,
+    "quantity":1,
+    "total":0
 
   },
   {
@@ -138,7 +158,13 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "burger.PNG"
+    "imageUrl": "burger.PNG",
+    "price":6.5,
+    "quantity":1,
+    "total":0
+
+
+
 
   },
   {
@@ -159,7 +185,12 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "chicken.jpg"
+    "imageUrl": "chicken.jpg",
+    "price":40.8,
+    "quantity":1,
+    "total":0
+
+
 },
   {
     "id": 9,
@@ -179,7 +210,13 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "lemon-cake.jpg"
+    "imageUrl": "lemon-cake.jpg",
+    "price":30.5,
+    "quantity":1,
+    "total":0
+
+
+
 
   },
   {
@@ -200,7 +237,13 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "lemon-pie.jpg"
+    "imageUrl": "lemon-pie.jpg",
+    "price":11.5,
+    "quantity":1,
+    "total":0
+
+
+
 
   },
   {
@@ -220,7 +263,12 @@
     "Step 3: Sift flour and baking powder together in a separate bowl; add to creamed mixture. Pour in milk, lemon zest, and lemon juice and mix until you achieve a smooth batter. Spoon batter into the prepared pan.",
     "Step 4: Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
     ],
-    "imageUrl": "chicken.jpg"
+    "imageUrl": "chicken.jpg",
+    "price":8.9,
+    "quantity":1,
+    "total":0
+
+
 
   }
 ]
